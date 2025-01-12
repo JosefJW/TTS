@@ -1,0 +1,4 @@
+train_model.py
+audio/*
+venv/*
+__pycache__/*
